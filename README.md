@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+try something new and popular to today
